@@ -1,0 +1,35 @@
+
+#Logo{
+    width:20%;
+    height: 80px;
+    float: left;
+	background: green;
+}
+
+#contenedor{
+    width:100%;
+}
+#titulo{
+    width:100%;
+    height: 80px;
+    float: left;
+	background: black;
+}
+#titulo-de-la-Pagina{
+    width: 25%;
+    height: 80px;
+    float: left;
+	background: red;
+}
+#MenuPrincipal{
+   width: 20%;
+   height: 500px; 
+   float: left;
+   background: blue;
+}
+#contenido{
+   width: 35%;
+   height: 500px; 
+   float: left;
+   background: yellow;
+}
